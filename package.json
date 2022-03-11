@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/kkbhati18/react-native-upi/issues"
   },
-  "homepage": "https://github.com/kkbhati18/react-native-upi#readme"
+  
+  "homepage": "https://github.com/kkbhati18/react-native-upi#readme",
+  "dependencies": {}
 }
